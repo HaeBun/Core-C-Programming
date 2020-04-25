@@ -18,7 +18,7 @@ printf 함수로 실수를 출력할 때 "%f"를 사용하면 소수점 아래 6자리를 출력한다.
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void)
+int pa03_04(void)
 {
 	int N, m;
 	float result = 0.0;
