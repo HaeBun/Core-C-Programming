@@ -12,7 +12,7 @@ m = (y2 - y1 / x2 - x1)
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void)
+int pa04_06(void)
 {
 	int x1, y1, x2, y2;
 	float result;
