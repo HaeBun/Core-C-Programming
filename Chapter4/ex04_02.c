@@ -1,8 +1,9 @@
 // 실수의 산술 연산
 
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void)
+int ex04_02(void)
 {
 	double x = 0, y = 0;
 
