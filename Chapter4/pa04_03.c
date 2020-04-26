@@ -17,7 +17,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void)
+int pa04_03(void)
 {
 	float g, volume, result;
 	printf("Áú·®(g)? ");
