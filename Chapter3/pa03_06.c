@@ -13,7 +13,7 @@
 #define pyeong 0.3025
 #include <stdio.h>
 
-int main(void)
+int pa03_06(void)
 {
 	float m = 0.0, result = 0.0;
 	printf("아파트의 면적(제곱미터)? ");
