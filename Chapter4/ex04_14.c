@@ -1,5 +1,4 @@
 // 암시적인 형 변환
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
