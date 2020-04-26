@@ -1,7 +1,7 @@
 // 조건 연산자의 사용 예
 
 #define _CRT_SECURE_NO_WARNINGS
-
+#include <stdio.h>
 int ex04_12(void)
 {
 	int a, b;
