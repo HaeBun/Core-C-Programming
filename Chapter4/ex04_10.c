@@ -3,7 +3,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void)
+int ex04_10(void)
 {
 	unsigned short x = 0x12;
 	unsigned short y = 0xF0;
