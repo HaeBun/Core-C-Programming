@@ -12,7 +12,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void)
+int pa03_07(void)
 {
 	float f;
 
