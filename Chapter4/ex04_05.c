@@ -20,4 +20,6 @@ int ex04_05(void)
 	
 	y2 = ++x2;				// 증가 후의 x2
 	printf("x2 = %.2f, y2 = %.2f\n", x2, y2);
+
+	return 0;
 }
