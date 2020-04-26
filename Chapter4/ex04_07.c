@@ -3,7 +3,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void)
+int ex04_07(void)
 {
 	int items = 0;	// 전체 항목 수
 	int pages = 0;
