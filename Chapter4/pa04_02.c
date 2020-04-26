@@ -10,7 +10,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void)
+int pa04_02(void)
 {
 	float F, C;
 	printf("È­¾¾¿Âµµ? ");
