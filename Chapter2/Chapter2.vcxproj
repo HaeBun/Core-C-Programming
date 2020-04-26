@@ -138,7 +138,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ex02_01.c" />
+    <ClCompile Include="ex02_02.c" />
+    <ClCompile Include="ex02_03.c" />
+    <ClCompile Include="ex02_04.c" />
+    <ClCompile Include="ex02_05.c" />
+    <ClCompile Include="ex02_06.c" />
     <ClCompile Include="pa02_01.c" />
+    <ClCompile Include="pa02_02.c" />
+    <ClCompile Include="pa02_03.c" />
+    <ClCompile Include="pa02_04.c" />
+    <ClCompile Include="pa02_05.c" />
+    <ClCompile Include="pa02_06.c" />
+    <ClCompile Include="pa02_07.c" />
+    <ClCompile Include="pa02_08.c" />
+    <ClCompile Include="pa02_09.c" />
+    <ClCompile Include="pa02_10.c" />
+    <ClCompile Include="pa02_11.c" />
+    <ClCompile Include="pa02_12.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

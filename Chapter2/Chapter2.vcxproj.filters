@@ -24,5 +24,56 @@
     <ClCompile Include="pa02_01.c">
       <Filter>소스 파일\Programming Assignment</Filter>
     </ClCompile>
+    <ClCompile Include="pa02_02.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa02_03.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa02_04.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa02_05.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa02_06.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa02_07.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa02_08.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa02_09.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa02_10.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa02_11.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa02_12.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="ex02_01.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex02_02.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex02_03.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex02_04.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex02_05.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex02_06.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
