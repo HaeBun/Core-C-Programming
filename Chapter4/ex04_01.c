@@ -3,7 +3,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void)
+int ex04_01(void)
 {
 	int x = 0, y = 0;
 
