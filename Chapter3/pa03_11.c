@@ -11,7 +11,7 @@ KRW 500000 = USD 413.22
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void)
+int pa03_11(void)
 {
 	float krw, exchange_rate, usd;
 	printf("KRW? ");
