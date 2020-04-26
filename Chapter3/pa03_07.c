@@ -20,4 +20,5 @@ int pa03_07(void)
 	scanf("%f", &f);
 	printf("Á¦°ö: %e\n", f * f);
 	printf("¼¼Á¦°ö: %e", f * f * f);
+
 }
