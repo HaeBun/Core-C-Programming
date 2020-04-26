@@ -15,7 +15,7 @@
 int pa03_08(void)
 {
 	int yard;
-	double miter;	//float으로 받았을 때 할당된 바이트수가 적어 정밀도가 떨어짐.
+	double miter;	//float으로 받았을 때 정밀도가 떨어짐.
 	printf("길이(yd)? ");
 	scanf("%d", &yard);
 	
