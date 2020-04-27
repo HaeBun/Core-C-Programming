@@ -23,7 +23,7 @@ double y = pow(25, 0.5);	// y는 250.5이므로 5가 된다.
 #include <stdio.h>
 #include <math.h>
 
-int main(void)
+int pa04_08(void)
 {
 	int r;
 	double volume;
