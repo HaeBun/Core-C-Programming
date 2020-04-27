@@ -22,7 +22,7 @@ USD 2000.00 »ì ¶§ ==> KRW 2392495.00
 #define Exc_Fee 1.75
 #include <stdio.h>
 
-int main(void)
+int ex04_15(void)
 {
 	int basic_rate;
 	float USD, KRW, pre_exc_rate;
