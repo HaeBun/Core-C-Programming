@@ -2,7 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void)
+int ex05_08(void)
 {
 	int menu;
 	char filename[32] = "test.avi";
