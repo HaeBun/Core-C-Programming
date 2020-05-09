@@ -1,4 +1,5 @@
 // else if를 이용한 텍스트 기반의 메뉴 처리
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int ex05_06(void)
@@ -17,7 +18,7 @@ int ex05_06(void)
 		scanf("%s", filename);
 	}
 	else if (menu == 2) {
-		printf("%s를 재생합니다.\n");
+		printf("%s를 재생합니다.\n", filename);
 	}
 	else if (menu == 3) {
 		printf("재생 옵션을 선택합니다.\n");
