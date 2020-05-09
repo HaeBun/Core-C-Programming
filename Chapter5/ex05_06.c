@@ -1,7 +1,7 @@
 // else if를 이용한 텍스트 기반의 메뉴 처리
 #include <stdio.h>
 
-int main(void)
+int ex05_06(void)
 {
 	int menu;
 	char filename[32] = "test.avi";
