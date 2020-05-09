@@ -1,7 +1,7 @@
 // 입력된 문자로 직사각형 그리기
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-int main(void)
+int ex05_12(void)
 {
 	int width, height;
 	char ch;
