@@ -2,7 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
-int main(void) {
+int ex05_02(void) {
 	int score;
 
 	printf("퀴즈 점수를 입력하세요: ");
