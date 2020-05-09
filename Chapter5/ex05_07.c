@@ -3,7 +3,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
-int main(void)
+int ex05_07(void)
 {
 	int a, b;		// 피연산자
 	char op;		// 연산자 기호를 문자로 저장할 변수
