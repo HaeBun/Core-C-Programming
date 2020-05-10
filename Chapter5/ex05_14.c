@@ -2,7 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void)
+int ex05_14(void)
 {
 	int num = 0;
 	int sum = 0;
