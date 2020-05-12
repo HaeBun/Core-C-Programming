@@ -1,7 +1,7 @@
 // return의 사용 예
 #include <stdio.h>
 
-int main(void)
+int ex05_24(void)
 {
 	int i;
 
