@@ -4,7 +4,7 @@ Core C Programming 예제 및 문제 풀이
 https://bookthumb-phinf.pstatic.net/cover/144/575/14457576.jpg?udate=20190220
 
 대학교 전공책 예제 및 문제 풀이를 올려두는 리포지토리 입니다.
-Chapter
+] Chapter
  -  2. C 프로그램의 기본
  -  3. 데이터형과 변수
  -  4. 연산자
