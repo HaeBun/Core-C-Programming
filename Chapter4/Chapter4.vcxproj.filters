@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Example">
+      <UniqueIdentifier>{b063f6e6-833d-486f-86e4-29865e4cef5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programming Assignment">
+      <UniqueIdentifier>{7bc86bbe-d60e-4c1b-a128-5ecfe18447be}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ex04_01.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_02.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_03.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_04.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_05.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_06.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_07.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_08.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_09.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_10.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_11.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_01.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_12.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_13.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_14.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_15.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04_16.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_02.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_03.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_04.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_05.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_06.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_07.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_08.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_09.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_10.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_11.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_12.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_13.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_14.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_15.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_16.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa04_17.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
