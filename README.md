@@ -1,7 +1,7 @@
 # Core-C-Programming
 Core C Programming 예제 및 문제 풀이
 
-대학교 전공책 예제 및 문제 풀이를 올려두는 리포지토리 입니다.
+전공책 예제 및 문제 풀이를 올려두는 리포지토리 입니다.
 
 [Chapter]
  -  2. C 프로그램의 기본 - Clear
