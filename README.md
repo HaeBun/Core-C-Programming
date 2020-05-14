@@ -4,6 +4,7 @@ Core C Programming 예제 및 문제 풀이
 전공책 예제 및 문제 풀이를 올려두는 리포지토리 입니다.
 
 [Chapter]
+ -  1. C 언어와 프로그래밍 개요 - Clear
  -  2. C 프로그램의 기본 - Clear
  -  3. 데이터형과 변수 - Clear
  -  4. 연산자 - pa16 
