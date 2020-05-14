@@ -138,8 +138,49 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ex05_18.c" />
+    <ClCompile Include="ex05_13.c" />
+    <ClCompile Include="ex05_14.c" />
     <ClCompile Include="ex05_01.c" />
     <ClCompile Include="ex05_02.c" />
+    <ClCompile Include="ex05_03.c" />
+    <ClCompile Include="ex05_04.c" />
+    <ClCompile Include="ex05_05.c" />
+    <ClCompile Include="ex05_06.c" />
+    <ClCompile Include="ex05_07.c" />
+    <ClCompile Include="ex05_08.c" />
+    <ClCompile Include="ex05_09.c" />
+    <ClCompile Include="ex05_10.c" />
+    <ClCompile Include="ex05_11.c" />
+    <ClCompile Include="ex05_12.c" />
+    <ClCompile Include="ex05_15.c" />
+    <ClCompile Include="ex05_16.c" />
+    <ClCompile Include="ex05_17.c" />
+    <ClCompile Include="ex05_19.c" />
+    <ClCompile Include="ex05_20.c" />
+    <ClCompile Include="ex05_21.c" />
+    <ClCompile Include="ex05_22.c" />
+    <ClCompile Include="ex05_23.c" />
+    <ClCompile Include="ex05_24.c" />
+    <ClCompile Include="pa05_01.c" />
+    <ClCompile Include="pa05_02.c" />
+    <ClCompile Include="pa05_03.c" />
+    <ClCompile Include="pa05_04.c" />
+    <ClCompile Include="pa05_05.c" />
+    <ClCompile Include="pa05_06.c" />
+    <ClCompile Include="pa05_07.c" />
+    <ClCompile Include="pa05_08.c" />
+    <ClCompile Include="pa05_09.c" />
+    <ClCompile Include="pa05_10.c" />
+    <ClCompile Include="pa05_11.c" />
+    <ClCompile Include="pa05_12.c" />
+    <ClCompile Include="pa05_13.c" />
+    <ClCompile Include="pa05_14.c" />
+    <ClCompile Include="pa05_15.c" />
+    <ClCompile Include="pa05_16.c" />
+    <ClCompile Include="pa05_17.c" />
+    <ClCompile Include="pa05_18.c" />
+    <ClCompile Include="pa05_19.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
