@@ -20,7 +20,7 @@
 */
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-int pa05_19(void)
+int main(void)
 {
 	int basic_fuel, break_even_audience, running_guarantee;
 	int total_fuel;
@@ -34,7 +34,7 @@ int pa05_19(void)
 
 	total_fuel = basic_fuel;
 
-	for (int i = 1000000; i < 15000000; i += 1000000)
+	for (int i = 1000000; i < 16000000; i += 1000000)
 	{
 		if (i > break_even_audience) 
 			total_fuel = basic_fuel + (i-break_even_audience) * running_guarantee;
