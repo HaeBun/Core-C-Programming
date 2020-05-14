@@ -15,7 +15,7 @@ int main(void)
 */
 #include <stdio.h>
 
-int main(void)
+int pa01_01(void)
 {
 	printf("FirstApp 프로그램\n");
 	printf("작성자: 김인태\n");
