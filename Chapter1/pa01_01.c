@@ -12,6 +12,10 @@ int main(void)
 	return 0;
 }
 
+실행결과
+FirstApp 프로그램
+작성자: 천정아
+버전: 1.0
 */
 #include <stdio.h>
 
