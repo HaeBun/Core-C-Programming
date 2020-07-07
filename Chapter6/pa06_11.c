@@ -27,7 +27,7 @@ float calculator(float a, char type, float b)
 		return 0;
 }
 
-int main()
+int pa06_11()
 {
 	float a, b;
 	char type;
