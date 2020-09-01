@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Example">
+      <UniqueIdentifier>{ef2780bf-bb76-4e97-873a-20e63d8f0a35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programming Assignment">
+      <UniqueIdentifier>{f8642e6a-6850-479e-8ac6-f0104dbf536a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ex06_01.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06_02.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06_03.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06_04.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06_05.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06_06.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06_07.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06_08.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06_09.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06_10.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06_11.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06_12.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06_13.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_01.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_02.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_03.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_04.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_05.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_06.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_10.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_11.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
