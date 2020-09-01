@@ -10,7 +10,6 @@ choose_menu의 리턴 값에 따라 어떤 메뉴가 선택되었는지 간단히 출력하는 프로그램을
 [1.파일 열기  2.파일 저장  3.인쇄  0.종료] [5]
 [1.파일 열기  2.파일 저장  3.인쇄  0.종료] [0]
 */
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
