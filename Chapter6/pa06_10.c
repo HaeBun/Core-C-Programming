@@ -26,7 +26,7 @@ void random(int sum, int rValue)
 	printf("\n합계: %d", sum);
 }
 
-int main()
+int pa06_10()
 {
 	printf("0~99사이의 임의의 정수를 10개 생성해서 합계를 구합니다.\n");
 	int sum = 0;
