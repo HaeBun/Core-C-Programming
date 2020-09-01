@@ -25,7 +25,7 @@ int is_prime(int i) {
 	}
 }
 
-void main() {
+void pa06_07() {
 	int i, j, N, cnt = 0;
 	printf("1~N사이의 소수를 구합니다. N은? ");
 	scanf("%d", &N);
