@@ -33,7 +33,7 @@ void main() {
 	srand((unsigned int)time(NULL));
 
 	for (i = 0; i < 3; i++) {
-		int rnum = rand() % 1000 + 1;
+		int rnum = rand() % 1000;
 
 		divisiors(rnum);
 	}
