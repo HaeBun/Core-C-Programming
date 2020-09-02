@@ -24,22 +24,26 @@ RGB 색상을 출력하려면 printf 함수의 문자열로 "%06X"를 이용한다.
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int pa04_16(void)
+int main(void)
 {
-	unsigned int red, green, blue;
+	int red, green, blue;
+	int value;
 	printf("red? ");
 	scanf("%d", &red);
+	red %= 256;
 
 	printf("green? ");
 	scanf("%d", &green);
+	green %= 256;
 
 	printf("blue? ");
 	scanf("%d", &blue);
-
-	red %= 256;
-	green %= 256;
 	blue %= 256;
 
-	printf("RGB 트루컬러: %06X", red*green*blue);
+	value = blue * 256 * 256;
+	value += green * 256;
+	value += red;
+
+	printf("RGB 트루컬러: %06X", value);
 	return 0;
 }
