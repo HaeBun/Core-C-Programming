@@ -1,7 +1,7 @@
 // 배열의 비교
 #include <stdio.h>
 
-int main(void)
+int ex07_08(void)
 {
 	int x[5] = { 10, 20, 30, 40, 50 };
 	int y[5] = { 10, 20, 30, 40, 50 };
