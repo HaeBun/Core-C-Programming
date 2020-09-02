@@ -27,15 +27,13 @@ void divisiors(int rnum) {
 }
 
 
-void main() {
+void pa06_18() {
 	int i, j, cnt=0;
 
 	srand((unsigned int)time(NULL));
 
 	for (i = 0; i < 3; i++) {
 		int rnum = rand() % 1000;
-
 		divisiors(rnum);
 	}
-
 }
