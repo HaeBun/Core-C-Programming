@@ -10,7 +10,7 @@ Core C Programming 예제 및 문제 풀이
  -  4. 연산자 - Clear
  -  5. 제어문 - Clear
  -  6. 함수 - Clear
- -  7. 배열
+ -  7. 배열 - learning
  -  8. 포인터
  -  9. 문자열
  - 10. 구조체
