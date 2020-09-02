@@ -1,7 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-
 int get_red() {
 	return 0;
 }
@@ -13,8 +12,6 @@ int get_blue() {
 int get_green() {
 	return 0;
 }
-
-
 
 void main() {
 	int a;
