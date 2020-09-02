@@ -1,7 +1,7 @@
 // 배열의 복사
 #include <stdio.h>
 
-int main(void)
+int ex07_07(void)
 {
 	int x[5] = { 10, 20, 30, 40, 50 };	// x와 y는 크기와 데이터형이 같은 배열이다.
 	int y[5] = { 0 };
