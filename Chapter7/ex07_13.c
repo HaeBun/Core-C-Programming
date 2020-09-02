@@ -3,7 +3,7 @@
 #define ROW 3
 #define COL 2
 
-int main(void)
+int ex07_13(void)
 {
 	int data[ROW][COL] = {
 		{10, 20}, {30, 40}, {50, 60},
