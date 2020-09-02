@@ -22,7 +22,7 @@ void graph(int rnum) {
 	}
 }
 
-void main() {
+void pa06_19() {
 	int i, rnum;
 	srand((unsigned int)time(NULL));
 
