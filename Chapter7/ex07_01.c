@@ -1,7 +1,7 @@
 // 배열의 바이트 크기와 크기 구하기
 #include <stdio.h>
 
-int main(void)
+int ex07_01(void)
 {
 	int arr[5];		// 크기가 5인 배열 선언
 	int byte_size;	// 배열의 바이트 크기를 저장할 변수
