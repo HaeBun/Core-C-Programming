@@ -1,4 +1,4 @@
-// draw_line, get_area 함수의 선언
+// draw_line, get_area 함수의 선언 
 
 #include <stdio.h>
 
