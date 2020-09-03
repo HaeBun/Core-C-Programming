@@ -10,7 +10,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-void ex07_04() {
+void pa07_04() {
 	int arr[10] = { 12, 34, 56, 78 ,99, 26, 31, 48, 1, 35 };
 	int max, min, max_idx, min_idx;
 	int i;
