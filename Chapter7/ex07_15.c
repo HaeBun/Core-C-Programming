@@ -24,7 +24,7 @@ void copy_array(int source[], int target[], int size)
 	for (i = 0; i < SIZE; i++)
 		target[i] = source[i];			// 배열의 원소를 복사한다.
 }
-
+/*
 void print_array(int arr[], int size)
 {
 	int i;
@@ -32,3 +32,4 @@ void print_array(int arr[], int size)
 		printf("%d ", arr[i]);
 	printf("\n");
 }
+*/
