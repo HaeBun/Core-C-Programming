@@ -19,7 +19,7 @@ int fill_array(int arr[], int size, int value) {
 	return 0;
 }
 
-void main() {
+void pa07_07() {
 	int i, value;
 	int arr[SIZE];
 	printf("배열의 원소에 저장할 값? ");
