@@ -10,8 +10,8 @@ Core C Programming 예제 및 문제 풀이
  -  4. 연산자 - Clear
  -  5. 제어문 - Clear
  -  6. 함수 - Clear
- -  7. 배열 - pa07_16
- -  8. 포인터
+ -  7. 배열 - Clear
+ -  8. 포인터 - learning
  -  9. 문자열
  - 10. 구조체
  - 11. 변수, 함수의 활용 및 동적 메모리
