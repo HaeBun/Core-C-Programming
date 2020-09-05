@@ -84,5 +84,35 @@
     <ClCompile Include="pa06_11.c">
       <Filter>소스 파일\Programming Assignment</Filter>
     </ClCompile>
+    <ClCompile Include="pa06_14.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_12.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_13.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_07.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_15.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_17.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_18.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_19.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_20.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="pa06_08.c">
+      <Filter>소스 파일\Programming Assignment</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

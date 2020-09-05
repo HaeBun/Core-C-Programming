@@ -158,8 +158,18 @@
     <ClCompile Include="pa06_04.c" />
     <ClCompile Include="pa06_05.c" />
     <ClCompile Include="pa06_06.c" />
+    <ClCompile Include="pa06_07.c" />
+    <ClCompile Include="pa06_08.c" />
     <ClCompile Include="pa06_10.c" />
     <ClCompile Include="pa06_11.c" />
+    <ClCompile Include="pa06_12.c" />
+    <ClCompile Include="pa06_13.c" />
+    <ClCompile Include="pa06_14.c" />
+    <ClCompile Include="pa06_15.c" />
+    <ClCompile Include="pa06_17.c" />
+    <ClCompile Include="pa06_18.c" />
+    <ClCompile Include="pa06_19.c" />
+    <ClCompile Include="pa06_20.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
