@@ -1,5 +1,4 @@
 // draw_line, get_area 함수의 선언
-
 #include <stdio.h>
 
 void draw_line_(char ch, int len);
