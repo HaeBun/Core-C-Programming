@@ -29,7 +29,7 @@ int overlap_check(int arr[], int length) {
 	return -1;
 }
 
-void main() {
+void pa07_18() {
 	int i, j;
 	int arr[10];
 
