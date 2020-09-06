@@ -11,7 +11,7 @@ void test2(int *p)	// p는 main의 x의 주소로 초기화된 포인터이다.
 	*p = 20;		// p가 가리키는 변수, 즉 main의 x에 20을 대입한다.
 }
 
-int pa08_04(void)
+int ex08_04(void)
 {
 	int x = 10;
 	test1(x);		// main의 x를 함수의 매개변수 x로 복사해서 전달한다.
