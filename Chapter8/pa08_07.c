@@ -20,7 +20,7 @@ void reverse_array(double *p) {
 
 }
 
-void main() {
+void pa08_07() {
 	int i;
 	double arr[10] = { 1.2, 3.1, 4.3, 4.5, 6.7, 2.3, 8.7, 9.5, 2.3, 5.8 };
 	double *p = arr;
