@@ -32,4 +32,3 @@ void print_array(const int arr[], int size)	// arr는 입력 매개변수
 		printf("%d ", arr[i]);
 	printf("\n");
 }
-
