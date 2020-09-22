@@ -11,7 +11,7 @@
 void get_rect_info(int* width, int* height) {
 	printf("넓이: %d, 둘레 %d", (width[0] * height[0]), (width[0]*2)+(height[0]*2));
 }
-void main() {
+void pa08_11() {
 	int width, height;
 
 	printf("가로? ");
