@@ -12,6 +12,7 @@ add_to_multiset 함수를 이용해서 입력받은 정수를 집합의 원소를 추가하고, 그 때마�
 10 20
 배열에 추가할 원소? [ 10 ]
 10 20 10
+...
 */
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
