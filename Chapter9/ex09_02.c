@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(void) 
+int ex09_02(void) 
 {
 	char s1[] = "hello";
 //	char s2[] = "";	// 널 문자열 // 오류가 인해 주석 처리
