@@ -12,7 +12,7 @@ struct contact		// 연락처
 int ex10_02(void)
 {
 	struct contact ct = { "김석진", "01011112222", 0 };
-	static contact ct1 = { 0 }, ct2 = { 0 };
+	struct contact ct1 = { 0 }, ct2 = { 0 };
 
 	ct.ringtone = 5;
 	strcpy(ct.phone, "01011112223");
