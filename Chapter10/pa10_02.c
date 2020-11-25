@@ -21,7 +21,7 @@ typedef struct login {
 void print_login(LOGIN* data);
 void make_lower(LOGIN* data);
 
-void ex10_02() {
+void pa10_02() {
 	struct login data;
 	printf("ID? ");
 	scanf("%s", &data.id);
