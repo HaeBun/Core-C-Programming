@@ -7,7 +7,7 @@ typedef struct point
 	int x, y;	// 점의 좌표
 } POINT;
 
-void print_point(POINT pt);
+void print_point_1(POINT pt);
 
 int ex10_09(void)
 {
@@ -19,7 +19,7 @@ int ex10_09(void)
 
 	for (i = 0; i < sz; i++)
 	{
-		print_point(arr[i]);	// arr[i]를 pt로 복사해서 전달한다.
+		print_point_1(arr[i]);	// arr[i]를 pt로 복사해서 전달한다.
 		printf(" ");
 	}
 	printf("\n");
@@ -27,7 +27,7 @@ int ex10_09(void)
 	return 0;
 }
 
-void print_point(POINT pt)	// 값에 의한 전달
+void print_point_1(POINT pt)	// 값에 의한 전달
 {
 	printf("(%d, %d)", pt.x, pt.y);
 }
