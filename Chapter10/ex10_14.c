@@ -8,7 +8,7 @@ int ex10_14(void)
 {
 	enum direction d1 = NORTH;		// 열거체 변수 선언
 
-	d1 = EAST;						// 
+	d1 = EAST;						
 	printf("d1 = %d\n", d1);		// 2가 출력된다.
 
 	switch (d1)
