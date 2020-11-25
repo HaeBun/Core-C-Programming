@@ -7,7 +7,7 @@ typedef struct point
 	int x, y;		// 점의 좌표
 } POINT;
 
-void print_point(POINT* pt);
+void print_point_2(POINT* pt);
 
 int main(void)
 {
@@ -19,7 +19,7 @@ int main(void)
 
 	for (i = 0; i < sz; i++)
 	{
-		print_point(&arr[i]);	// 구조체 변수의 주소를 전달한다. 
+		print_point_2(&arr[i]);	// 구조체 변수의 주소를 전달한다. 
 		printf(" ");
 	}
 	printf("\n");
@@ -27,7 +27,7 @@ int main(void)
 	return 0;
 }
 
-void print_point(POINT* pt)		// 포인터에 의한 전달
+void print_point_2(POINT* pt)		// 포인터에 의한 전달
 {
 	printf("(%d, %d)", pt->x, pt->y);
 }
