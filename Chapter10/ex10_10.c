@@ -9,7 +9,7 @@ typedef struct point
 
 void print_point_2(POINT* pt);
 
-int main(void)
+int ex10_10(void)
 {
 	POINT arr[] = {
 		{0, 0}, {10, 10}, {20, 20}, {30, 30}, {40, 40},
